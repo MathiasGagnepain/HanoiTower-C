@@ -4,6 +4,7 @@
 #include <stdbool.h>
 #include "includes/main.h"
 
+// TODO: Add "gravity" to disks
 int main(int argc, char const *argv[])
 {
     // towers init
